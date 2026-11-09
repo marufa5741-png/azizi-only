@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://azizi-venice-tax-savings-calculator.vercel.app/sitemap.xml
